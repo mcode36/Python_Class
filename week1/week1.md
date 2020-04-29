@@ -62,7 +62,7 @@
 
 2. Write a python program called your_score.py :
    - The program will take two inputs from user: <name> and <score>
-   - If score is 'equal or greater' than 60, print:
+   - If score is 'equal or greater than' 60, print:
      Good job, <name> !! You passed.
    - If score is less than 60, print:
      Oops, <name>, you failed. Try harder next time.
