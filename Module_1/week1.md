@@ -78,3 +78,12 @@
      - B : when score is greater or equal 80 AND less than 90
      - A : when score is greater or equal 90 AND less than 100
    - When grading is 'A', print extra line : "Wow, Excellent!!"
+
+4. Bonus: Write a python program to convert Celsius to Fahrenheit:
+   - The program will first ask user whether they want to:
+     - Convert from Celsius to Fahrenheit
+     - Convert Fahrenheit to Celsius
+   - Then the program will ask for a number. The prompt should based on question 1. For example:
+     Temperature (in degC) ? 
+   - Calculate result. FOr example:
+     30 degC = 86 degF
