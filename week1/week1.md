@@ -1,5 +1,10 @@
 # Python Genius CLass: Week 1
 
+  - Print(), Input()
+  - Comment
+  - Variables
+  - If statement
+
 ## Highlights
 1. How to run python program
 
