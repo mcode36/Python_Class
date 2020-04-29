@@ -1,0 +1,38 @@
+Refer to main course contents: https://www.w3schools.com/python/default.asp
+
+online IDE (Python3) : https://repl.it/languages/python3
+
+#1 Variables, operators and print
+
+   * 
+   
+#2 Casting : int() and str()
+
+   * Get input from keyboard
+
+#3 Strings
+
+#4 Operators
+
+#5 List
+
+#6 Tuples
+
+#7 If ... Else
+
+#8 For loops
+
+   * Print 9 x 9 Multiplication Table
+   * Find all the prime numbers under 100
+
+#9 While loops
+
+   * Find all the prime numbers under 100, using while loops
+
+#10 Functions
+
+#11 Dictionaries
+
+#12 Classes / Objects
+
+#13 Try...Except
