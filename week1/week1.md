@@ -27,3 +27,14 @@
      - Variable names are case-sensitive
 
    - Global variables and scopes: Explained in later chapters
+
+5. Python Conditions: If Statement
+   - "if:" clause
+   - "if: ... else:" clause
+   - Comparison Operators: 
+     - ==, !=
+     - \> , \>=
+     - \< , \<=
+     
+   - Logic operators: 'AND', 'OR'
+   - 'Pass' statement
