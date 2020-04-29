@@ -48,20 +48,22 @@
 
 ## Challenges
 
-1. Write a python program called my_sum.py :
-   - The program will get 5 inputs from user and add them together and print the entire foemula and the result
-   - For example, if the 5 inputs are: 10, 20, 30, 40, 2, we should see:
-     10 + 20 + 30 + 40 + 2 = 102
+1. Write a python program called area.py :
+   - The program will get 2 inputs from user : <base> and <height>
+   - Calculate the area of the triangle and print the result.
+   - Formula : area_of_triangle = <base> * <height> / 2
+   - For example, if <base> is 20 and <height> is 10, the program should print something like this:
+     The area of a triangle with base=20 and height=10 is: 100
 
 2. Write a python program called your_score.py :
-   - The program will take two inputs from user: name and score
+   - The program will take two inputs from user: <name> and <score>
    - If score is 'equal or greater' than 60, print:
      Good job, <name> !! You passed.
    - If score is less than 60, print:
      Oops, <name>, you failed. Try harder next time.
 
 3. Write a python program called grade.py
-   - The program will take two inputs from user: name and score
+   - The program will take two inputs from user: <name> and <score>
    - Depending on the score, the program will print:
      "Hi, <name>, your grade is <grade>"
    - Grading:
@@ -71,4 +73,3 @@
      - B : when score is greater or equal 80 AND less than 90
      - A : when score is greater or equal 90 AND less than 100
    - When grading is 'A', print extra line : "Wow, Excellent!!"
-
