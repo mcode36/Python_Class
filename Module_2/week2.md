@@ -59,8 +59,12 @@
    - if x is multiple of 2, print "boo"
    - if x is multiple of 3, print "hoo"
    - if x is multiple of both 2 and 3, print "boohoo"
+   
+3. Use for loop to calculate x^5
+   - The program will take one odd number from user
+   - print result of x * x * x * x * x using for loop
 
-3. Write a program called xmas_tree.py:
+4. Write a program called xmas_tree.py:
    - The program will take one odd number from user
    - If number fall out of range (3 to 7),  the program will quit with an error message
    - The program will print tower based on the input number.
