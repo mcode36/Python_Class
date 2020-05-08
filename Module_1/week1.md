@@ -1,4 +1,4 @@
-# Python Genius CLass: Week 1
+# Python Genius Class: Week 1
 
   - Print(), Input()
   - Comment
